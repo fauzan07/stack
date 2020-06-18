@@ -3,7 +3,7 @@
      <div class="footer-top bg-1">
          <div class="container">
              <div class="row">
-                 <div class="col-lg-4 col-sm-6 col-12 pt-4">
+                 <div class="col-lg-4 col-12 pt-4">
                      <div class="footer-widget footer-logo">
                          <img src="images/logo.png" width="200" alt="Responsive image">
                          <p class="mt-4">At Stack, customers come first. And their satisfaction is not just our top priority but also the driving force for us, every single day.</p>
@@ -17,17 +17,17 @@
                          </ul>
                      </div>
                  </div>
-                 <div class="col-lg-3 col-sm-6 col-12">
+                 <div class="col-lg-3 col-12">
                      <div class="footer-widget footer-contact">
                          <h4 class="widget-title">GET IN TOUCH</h4>
                          <ul class="list-unstyled">
                              <li><i class="fa fa-building-o"></i> 256 Interior the good, New York</li>
-                             <li><i class="fa fa-envelope-o"> </i> Supportyou@Interrio.com
-                             <li><i class="fa fa-phone"></i> (+321) 567 89 0123
+                             <li><i class="fa fa-envelope-o"> </i> Supportyou@Interrio.com</li>
+                             <li><i class="fa fa-phone"></i> (+321) 567 89 0123</li>
                          </ul>
                      </div>
                  </div>
-                 <div class="col-lg-2 col-sm-6 col-12">
+                 <div class="col-lg-2 col-12">
                      <div class="footer-widget footer-menu">
                          <h4 class="widget-title">Quick Links</h4>
                          <ul class="list-unstyled">
@@ -55,7 +55,7 @@
                  <div class="row">
                      <div class="col-12">
                          <p class="float-left">&copy;Copyright &copy;All rights reserved</p>
-                         <p class="float-right"><small> This site by <a href="" target="_blank">wittyweb</a></small></p>
+                         <p class="float-right"><small> This site by <a href="" target="_blank">Er.fauzan</a></small></p>
                      </div>
                  </div>
                  <!-- </div> -->
